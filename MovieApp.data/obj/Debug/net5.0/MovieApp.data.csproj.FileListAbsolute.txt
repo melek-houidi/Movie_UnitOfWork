@@ -1,0 +1,15 @@
+E:\visual studio\MovieApp\MovieApp.data\bin\Debug\net5.0\MovieApp.data.deps.json
+E:\visual studio\MovieApp\MovieApp.data\bin\Debug\net5.0\MovieApp.data.runtimeconfig.json
+E:\visual studio\MovieApp\MovieApp.data\bin\Debug\net5.0\MovieApp.data.runtimeconfig.dev.json
+E:\visual studio\MovieApp\MovieApp.data\bin\Debug\net5.0\MovieApp.data.dll
+E:\visual studio\MovieApp\MovieApp.data\bin\Debug\net5.0\ref\MovieApp.data.dll
+E:\visual studio\MovieApp\MovieApp.data\bin\Debug\net5.0\MovieApp.data.pdb
+E:\visual studio\MovieApp\MovieApp.data\obj\Debug\net5.0\MovieApp.data.csproj.AssemblyReference.cache
+E:\visual studio\MovieApp\MovieApp.data\obj\Debug\net5.0\MovieApp.data.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\MovieApp\MovieApp.data\obj\Debug\net5.0\MovieApp.data.AssemblyInfoInputs.cache
+E:\visual studio\MovieApp\MovieApp.data\obj\Debug\net5.0\MovieApp.data.AssemblyInfo.cs
+E:\visual studio\MovieApp\MovieApp.data\obj\Debug\net5.0\MovieApp.data.csproj.CoreCompileInputs.cache
+E:\visual studio\MovieApp\MovieApp.data\obj\Debug\net5.0\MovieApp.data.dll
+E:\visual studio\MovieApp\MovieApp.data\obj\Debug\net5.0\ref\MovieApp.data.dll
+E:\visual studio\MovieApp\MovieApp.data\obj\Debug\net5.0\MovieApp.data.pdb
+E:\visual studio\MovieApp\MovieApp.data\obj\Debug\net5.0\MovieApp.data.genruntimeconfig.cache
